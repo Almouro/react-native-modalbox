@@ -1,5 +1,5 @@
 {
-  "name": "@bam.tech/react-native-modalbox",
+  "name": "react-native-keyboard-modalbox",
   "version": "1.4.2",
   "description": "A <Modal/> component for react-native",
   "main": "index.js",
